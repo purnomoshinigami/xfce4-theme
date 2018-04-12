@@ -1,0 +1,14 @@
+
+button_offset=4
+button_spacing=2
+full_width_title=false
+
+title_alignment=left
+title_vertical_offset_active=-1
+title_vertical_offset_inactive=-1
+active_text_color=#ffffff
+inactive_text_color=#777777
+shadow_delta_height=1
+shadow_delta_width=1
+shadow_delta_x=1
+shadow_delta_y=0

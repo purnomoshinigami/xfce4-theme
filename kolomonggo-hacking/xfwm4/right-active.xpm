@@ -1,0 +1,7 @@
+/* XPM */
+static char * right_active_xpm[] = {
+"7 2 2 1",
+" 	c None",
+".	c #00D100",
+"     ..",
+"     .."};

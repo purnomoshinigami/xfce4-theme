@@ -1,0 +1,13 @@
+# Author: Tomasz Karbownicki
+# Website: http://karbownicki.com
+# Email: tomasz@karbownicki.com
+# License: http://creativecommons.org/licenses/by/2.0/
+
+[Info]
+Name=Linux forever
+Description=Linux forever
+
+[Splash Screen]
+bgcolor=#000000
+fgcolor=#FFFFFF
+logo=linux-forever.png
